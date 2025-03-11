@@ -1,0 +1,16 @@
+#firstpara{
+   background-color: yellow;
+   color: brown;
+}
+#secondpara{
+    background-color: rgb(100,190, 192);
+}
+#thirdpara{
+    background-color: rgba(66,176,86, 0.75);
+}
+.firstclass{
+    background-color: #aabbcc;
+}
+.secondclass{
+    background-color: hsla(76, 87%, 48%, 0.621);
+}

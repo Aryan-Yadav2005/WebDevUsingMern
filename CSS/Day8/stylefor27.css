@@ -1,0 +1,38 @@
+*{
+    padding: 0;   /* Universal selector*/
+    margin: 0;
+}
+h1{
+    background-color: aquamarine;
+    border: solid black 3px;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    
+}
+#para1{
+    background-color: lightgreen;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+   
+
+    
+}
+#para2{
+    background-color: aqua;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+    
+
+
+}
+#para3{
+    background-color: lightgreen;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+   
+
+}

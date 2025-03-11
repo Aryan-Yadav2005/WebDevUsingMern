@@ -1,0 +1,43 @@
+h1{
+    background-color: aquamarine;
+    border: solid black 3px;
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left:400px ;
+    margin-top: 30px;
+}
+#para1{
+    background-color: lightgreen;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left:400px ;
+    margin-top: 30px;
+
+
+    
+}
+#para2{
+    background-color: aqua;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left:400px ;
+    margin-top: 30px;
+
+
+}
+#para3{
+    background-color: lightgreen;
+    border: solid black 3px;
+    width: 400px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left:400px ;
+    margin-top: 30px;
+
+}
