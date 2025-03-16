@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 5000px;
+}
+img{
+     margin:20px;
+}
+div{
+    
+    border: 3px solid black ;
+}
+.image2{
+    position:relative;
+    top: 100px;
+}
+.image3{
+    position: sticky;
+    top: 100px;
+}
+.image4{
+    position: fixed;
+}
