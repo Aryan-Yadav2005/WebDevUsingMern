@@ -1,27 +1,29 @@
-# 🚀 WebDevUsingMern Progress  
+# 🚀 **WebDevUsingMern Progress**  
 
 This repository documents my daily progress as I learn **HTML, CSS, and JavaScript** on my journey to mastering web development.  
 
-## 📅 Progress Tracker  
-Day 1: Learned about **HTML structure, tags, and elements. Explored **attributes, `<div>`, `id`, and `class` and created a "basic navigation bar".
+---
 
-Day 2: Studied **HTML tables** (including `rowspan` & `colspan`) ,recreated different table structures for practice and explored **HTML forms** (input fields, buttons, dropdowns).  
+## 📅 **Progress Tracker**  
 
-Day 3 & 4: Couldn't do much (Assigenment and stuff).
+### ✅ **Week 1: HTML Foundations**  
+🔹 **Day 1:** Introduction to **HTML structure, tags, and elements**. Explored **attributes**, `<div>`, `id`, and `class`. Created a **basic navigation bar**.  
+🔹 **Day 2:** Studied **HTML tables** (`rowspan`, `colspan`), recreated various table structures, and explored **HTML forms** (input fields, buttons, dropdowns).  
 
-Day 5: Learned about Table tags(Table ,Td,Tr),Lift tags,Image tags,Formatting tag,Block and Inaline tags in HtMl and anchor<a> tag.
+📌 *Days 3 & 4:* Limited progress due to assignments.  
 
-Day 6: Learned about Form tags(Label,Legend,form text area,id and For tags) also about fieldset and created a project.
+🔹 **Day 5:** Covered **table tags** (`table`, `td`, `tr`), **list tags**, **image tags**, **formatting tags**, **block vs. inline elements**, and the **anchor (`<a>`) tag**.  
+🔹 **Day 6:** Learned about **form tags** (`label`, `legend`, `form`, `textarea`), the `id` and `for` attributes, `<fieldset>`, and completed a **mini-project**.  
 
-Day 7: Started Css and learned about Inline Css(style inline),Footer tag,Internal Css,External Css,Selectors in Css(group selectors),Id,Class,Styling Fonts,styling color in Css.
+---
 
-Day 8: Learned about Typography,Box Model.
+### 🎨 **Week 2: Diving Into CSS**  
+🔹 **Day 7:** Introduction to **CSS** – Explored **inline, internal, and external CSS**, the `<footer>` tag, **CSS selectors** (group selectors, `id`, `class`), and styling **fonts and colors**.  
+🔹 **Day 8:** Learned about **typography** and the **box model** (margin, padding, border, content).  
+🔹 **Day 9:** Explored **CSS positioning** (`relative`, `static`, `fixed`, `absolute`, `sticky`) and added images in the CSS file.  
 
-Day 9:Learned aout positionj properties(Relative,Static,Fixed,Absolute,Sticky) and some images were added in Css file.
+---
 
-
-## 📚 Resources I'm Using  
+## 📚 **Resources I'm Using**  
 📌 **Luv Babbar's MERN Stack Course**  
-📌 **MDN Web Docs**  
-
-
+📌 **MDN Web Docs**
