@@ -11,7 +11,7 @@ Day 3 & 4: Couldn't do much (Assigenment and stuff).
 
 Day 5: Learned about Table tags(Table ,Td,Tr),Lift tags,Image tags,Formatting tag,Block and Inaline tags in HtMl and anchor<a> tag.
 
-Day 6: Learned about Form tags(Label,Legend,form text area,id and For tags) also about fieldset.
+Day 6: Learned about Form tags(Label,Legend,form text area,id and For tags) also about fieldset and created a project.
 
 Day 7: Started Css and learned about Inline Css(style inline),Footer tag,Internal Css,External Css,Selectors in Css(group selectors),Id,Class,Styling Fonts,styling color in Css.
 
