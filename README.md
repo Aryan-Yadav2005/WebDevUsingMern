@@ -20,7 +20,9 @@ This repository documents my daily progress as I learn **HTML, CSS, and JavaScri
 ### 🎨 **Week 2: Diving Into CSS**  
 🔹 **Day 7:** Introduction to **CSS** – Explored **inline, internal, and external CSS**, the `<footer>` tag, **CSS selectors** (group selectors, `id`, `class`), and styling **fonts and colors**.  
 🔹 **Day 8:** Learned about **typography** and the **box model** (margin, padding, border, content).  
-🔹 **Day 9:** Explored **CSS positioning** (`relative`, `static`, `fixed`, `absolute`, `sticky`) and added images in the CSS file.  
+🔹 **Day 9:** Explored **CSS positioning** (`relative`, `static`, `fixed`, `absolute`, `sticky`) and added images in the CSS file.
+🔹 **Day 10:** Explored **CSS Float and Clear**.
+ 
 
 ---
 
