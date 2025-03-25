@@ -1,0 +1,33 @@
+.container{
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+#box1{
+  margin: 5px;
+  padding: 2px;
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+}
+#box2{
+    margin: 5px;
+    padding: 2px;
+    background-color: beige;
+    height: 200px;
+    width: 200px;
+}
+#box3{
+    margin: 5px;
+    padding: 2px;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+#box4{
+    margin: 5px;
+    padding: 2px;
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+}
