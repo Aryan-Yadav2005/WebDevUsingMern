@@ -3,35 +3,42 @@
     display: flex;
     flex-wrap: wrap;
     height: 500px;
+    justify-content: start;
      /* align-items: center; */
      /* align-items: end; */
      align-items: start;
+     /* align-items:stretch; */
+     /* align-content: start; */
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+
 }
 #box1{
   margin: 5px;
   padding: 2px;
   background-color: aqua;
-  height: 200px;
-  width: 200px;
+  
 }
 #box2{
     margin: 5px;
     padding: 2px;
     background-color: beige;
-    height: 200px;
-    width: 200px;
+   
 }
 #box3{
     margin: 5px;
     padding: 2px;
     background-color: blue;
-    height: 200px;
-    width: 200px;
+    
 }
 #box4{
     margin: 5px;
     padding: 2px;
     background-color: orange;
-    height: 200px;
-    width: 200px;
+   
 }
