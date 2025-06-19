@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+:root{
+     --custom-width:300px ;
+    --primary-color:brown; /*Custom variable define in Root */
+}
+.container{
+    background-color: beige;
+    height: 440px;
+    width: 840px;
+    border: 1px solid black;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.box{
+    --custom-width:300px ;
+    --primary-color:brown;
+    background-color: var(--primary-color);
+    width: var(--custom-width);
+    height: 350px;
+    border: 1px solid black;
+    padding: 3px;
+    box-shadow: 10px 20px 10px 10px black; 
+}
+#text1{
+    text-shadow: 2px 2px 10px green, 4px 5px 2px red, 1px 1px 2px blue; /*Multiple Shadows*/
+}
