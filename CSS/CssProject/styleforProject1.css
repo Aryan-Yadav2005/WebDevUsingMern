@@ -1,0 +1,81 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;                                       
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.navContainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    /* background-color:rgba(151, 44, 44, 0.616) ; */
+    /* background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%); */
+    background: hsla(238, 100%, 71%, 1);
+
+background: linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#696EFF", endColorstr="#F8ACFF", GradientType=1 );
+    min-height: 8vh;
+}
+#navLogo{
+   font-size:3rem ;
+   font-family: 'Times New Roman', Times, serif;
+   color: white;
+
+}
+#navList{
+    display: flex;
+    justify-content:space-between;
+    list-style:none ;
+    font-size:2.5rem ;
+   font-family: 'Times New Roman', Times, serif;
+   margin-left: 15px;
+   margin-right: 20px;
+   margin-top: 20px;
+   width: 100%;
+}
+a{
+    text-decoration: none;
+    color:aquamarine;
+
+}
+#navItems{
+    display: flex;
+    gap: 40px;
+
+}
+#img1{
+   left: 1000px;
+    height: 70px;
+    width: 70px;
+}
+.contentbox{
+    flex:1;
+    overflow: auto;
+}
+.footerbox{
+    overflow: auto;
+    padding: 10px;
+    text-align: center;
+    background: hsla(238, 100%, 71%, 1);
+    background: linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(295, 100%, 84%, 1) 100%);
+    }
+.footerbox p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
